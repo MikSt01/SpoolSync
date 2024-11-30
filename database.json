@@ -1,0 +1,296 @@
+{
+  "RFID" : {
+  "type":"Wrt",
+  "Filament":"",
+  "Menge":0
+  },
+
+  "DFNaturPLA" : {
+    "Farbe":"Natur", 
+    "Marke":"DasFilament", 
+    "Typ":"PLA", 
+    "Menge":0, 
+    "Bild":"Filamentspule.png", 
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/5/pla-filament-1-75-mm-natur" 
+  },
+
+  "DFSchwarzPLA" : {
+    "Farbe":"Schwarz", 
+    "Marke":"DasFilament", 
+    "Typ":"PLA", 
+    "Menge":"0", 
+    "Bild":"Filamentspule.png", 
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/2/pla-filament-1-75-mm-schwarz-800-g" 
+  },
+
+  "DFSchwarzMattPLA" : {
+    "Farbe":"SchwarzMatt", 
+    "Marke":"DasFilament", 
+    "Typ":"PLA", 
+    "Menge":"0", 
+    "Bild":"Filamentspule.png", 
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/363/pla-filament-1-75-mm-schwarz-matt-800-g" 
+  },
+
+  "DFGrüngoldPLA" : {
+    "Farbe":"Grüngold",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/404/pla-filament-1-75-mm-gruengold-800-g"
+  },
+
+  "DFBluePearlPLA" : {
+    "Farbe":"BluePearl",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/405/pla-filament-1-75-mm-blue-pearl-800-g"
+  },
+
+  "DFAnthrazitV2PLA" : {
+    "Farbe":"AnthrazitV2",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/444/pla-filament-1-75-mm-anthrazit-v2"
+  },
+
+  "DFGrauPLA" : {
+    "Farbe":"Grau",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/8/pla-filament-1-75-mm-grau"
+  },
+
+  "DFSilberPLA" : {
+    "Farbe":"Silber",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/104/pla-filament-1-75-mm-silber"
+  },
+
+  "DFWeißPLA" : {
+    "Farbe":"Weiß",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/11/pla-filament-1-75-mm-weiss-800-g"
+  },
+
+  "DFTonweißMattPLA" : {
+    "Farbe":"TonweißMatt",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/349/pla-filament-1-75-mm-tonweiss-matt"
+  },
+
+  "DFSonnengelbPLA" : {
+    "Farbe":"Sonnengelb",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/7/pla-filament-1-75-mm-sonnengelb"
+  },
+
+  "DFNeonorangePLA" : {
+    "Farbe":"Neonorange",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/96/pla-filament-1-75-mm-neonorange"
+  },
+
+  "DFReinorangePLA" : {
+    "Farbe":"Reinorange",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/10/pla-filament-1-75-mm-reinorange-800-g"
+  },
+
+  "DFThermoRotPLA" : {
+    "Farbe":"ThermoRot",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/102/pla-filament-1-75-mm-thermo-rot"
+  },
+
+  "DFFeuerrotPLA" : {
+    "Farbe":"Feuerrot",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/95/pla-filament-1-75-mm-feuerrot"
+  },
+
+  "DFKirschrotPLA" : {
+    "Farbe":"Kirschrot",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/132/pla-filament-1-75-mm-kirschrot"
+  },
+
+  "DFMetallicRotPLA" : {
+    "Farbe":"MetallicRot",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/255/pla-filament-1-75-mm-metallic-rot"
+  },
+
+  "DFKastanienbraunPLA" : {
+    "Farbe":"Kastanienbraun",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/47/pla-filament-1-75-mm-kastanienbraun"
+  },
+
+  "DFBronzePLA" : {
+    "Farbe":"Bronze",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/106/pla-filament-1-75-mm-bronze"
+  },
+
+  "DFGoldV2PLA" : {
+    "Farbe":"GoldV2",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/496/pla-filament-1-75-mm-gold-v2-800-g"
+  },
+
+  "DFMagentaPLA" : {
+    "Farbe":"Magenta",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/223/pla-filament-1-75-mm-magenta-800-g"
+  },
+
+  "DFMulticolorGalaxyPLA" : {
+    "Farbe":"MulticolorGalaxy",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/373/pla-filament-1-75-mm-multicolor-galaxy"
+  },
+
+  "DFKönigsblauPLA" : {
+    "Farbe":"Königsblau",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/84/pla-filament-1-75-mm-koenigsblau"
+  },
+
+  "DFTransluzentBlauPLA" : {
+    "Farbe":"TransluzentBlau",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/128/pla-filament-1-75-mm-transluzent-blau"
+  },
+
+  "DFToms3dInfinityBluePLA" : {
+    "Farbe":"Toms3dInfinityBlue",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/253/pla-filament-1-75-mm-toms3d-infinity-blue"
+  },
+
+  "DFHimmelblauPLA" : {
+    "Farbe":"Himmelblau",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/23/pla-filament-1-75-mm-himmelblau"
+  },
+
+  "DFMulticolorPolarlichtPLA" : {
+    "Farbe":"MulticolorPolarlicht",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/367/pla-filament-1-75-mm-multicolor-polarlicht"
+  },
+
+  "DFTannengrünPLA" : {
+    "Farbe":"Tannengrün",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/21/pla-filament-1-75-mm-tannengruen"
+  },
+
+  "DFGrasgrünPLA" : {
+    "Farbe":"Grasgrün",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/60/pla-filament-1-75-mm-grasgruen"
+  },
+
+  "DFTransluzentGrünPLA" : {
+    "Farbe":"TransluzentGrün",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/66/pla-filament-1-75-mm-transluzent-gruen"
+  },
+
+  
+  "DFGrünPLA" : {
+    "Farbe":"Grün",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/119/pla-filament-1-75-mm-das-filament-gruen-800-g"
+  },
+
+  "DFGlowGrünV2PLA" : {
+    "Farbe":"GlowGrünV2",
+    "Marke":"DasFilament",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"Filamentspule.png",
+    "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/122/pla-filament-1-75-mm-glow-gruen-v2-800-g"
+  }
+}

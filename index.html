@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <link rel="stylesheet" href="SpoolSync_Stylesheet.css">
+    <script language="javascript" type="text/javascript" src="scripts.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="Filamentspule.png">
+    <title>SpoolSync</title>
+</head>
+<body>
+    <header>
+        <h1>SpoolSync</h1>
+        <button id="writeButton" onclick="writeRFID()"></button>
+    </header>
+    <div class="Reihe" id="ReihePLA">            <!-- Der Wrapper ist notwendig, um in diesem später Dinge platzieren zu können -->
+    </div>
+
+    <div class="Reihe" id="ReihePETG"></div>
+
+    <div class="Reihe" id="ReiheOther"></div>
+    <main>
+        <p id="main-content"></p>
+    </main>
+    <footer>
+        <p>&copy; 2024 SpoolSync</p>
+    </footer>
+</body>
+</html>
