@@ -5,7 +5,7 @@ Die folgenden Arduino Bibliotheken installieren:
     MFRC522 von GithubCommunity
     Websockets von Markus Sattler
 
-Die Datei 3dControlV2.ino auf einen Arduino hochladen,
+Die Datei 3dControlV4.ino auf einen Arduino hochladen,
 Die Datei ESPreceive_WebSocketV2.ino auf eine Wemos D1 mini hochladen 
 und einen WebSocket Server mit den Dateien 
 
