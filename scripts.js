@@ -41,18 +41,32 @@ function toggleVisibility(Filament){
 
 //Funktion zum Anzeigen von Elementen
 function addElement(Farbe, Marke, Typ, Menge, Bild, Link){
-  if(Typ == "PETG") document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  if(Typ == "PETG" && Farbe.length >= 12) document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if(Typ == "PETG") document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if(Typ == "PLA" && Farbe.length >= 12) document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
   else if(Typ == "PLA") document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if (Farbe.length >= 12) document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
   else document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
 }
 
 function writeRFID(){
   let tmpJSONtyp = ""
-  var tmpJSONfID = ""
   tmpJSONtyp = "Wrt: "
-  tmpJSONfID = window.prompt("FilamentID eingeben (Max. 16 Zeichen)", "")
-  tmpMessage = '{'+AFO+'type'+AFO+':'+AFO+'Wrt'+AFO+','+AFO+'Filament'+AFO+':'+AFO+'#'+tmpJSONfID+'#'+AFO+'}'
-  ws.send(tmpMessage)
+  tmpJSONFarbe = window.prompt("Filamentfarbe eingeben", "")
+  var FilamentID = "";
+  var isInList = false;
+  for (var tmp in Filamente){
+    var Fil = Filamente[tmp];
+    if(Fil.Farbe == tmpJSONFarbe){
+      FilamentID = tmp;
+      isInList = true;
+    }
+  }
+  if(isInList){
+    tmpMessage = '{'+AFO+'type'+AFO+':'+AFO+'Wrt'+AFO+','+AFO+'Filament'+AFO+':'+AFO+'#'+FilamentID+'#'+AFO+'}'
+    console.log(tmpMessage)
+    ws.send(tmpMessage)
+  }
 }
 
 
