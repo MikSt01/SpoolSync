@@ -292,5 +292,330 @@
     "Menge":"0",
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/122/pla-filament-1-75-mm-glow-gruen-v2-800-g"
+  },
+
+"RFGNPLA" : {
+    "Farbe":"Gute Nacht (Schwarz)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/gute-nacht-schwarz"
+  },
+
+"RFFSPLA" : {
+    "Farbe":"Flauschiges Schaf (Weiß)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/flauschiges-schaf-weiss"
+  },
+
+"RFMSPLA" : {
+    "Farbe":"Milder Sanddorn (Orange)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/milder-sanddorn-orange"
+  },
+
+"RFSKRPLA" : {
+    "Farbe":"Süße Kirsche (Rot)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/susse-kirsche-rot"
+  },
+
+"RFFLPLA" : {
+    "Farbe":"Fallendes Laub (Braun)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/fallendes-laub-braun"
+  },
+
+"RFFAPLA" : {
+    "Farbe":"Flüssiger Asphalt (Dunkelgrau)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/flussiger-asphalt-dunkelgrau"
+  },
+
+  "RFBLPLA" : {
+    "Farbe":"Beruhigender Lavendel (Violett)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/beruhigender-lavendel-violett"
+  },
+
+"RFTOPLA" : {
+    "Farbe":"Tiefer Ozean (Dunkelblau)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/tiefer-ozean-dunkelblau"
+  },
+
+"RFFGPLA" : {
+    "Farbe":"Flaches Gewässer (Blau)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/flaches-gewasser-blau"
+  },
+
+"RFGAPLA" : {
+    "Farbe":"Gammelige Avocado (Grün)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/gammlige-avocado-grun"
+  },
+
+"RFNEPLA" : {
+    "Farbe":"Nasser Elephant (Grau)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/nasser-elefant-grau"
+  },
+
+"RFCKPLA" : {
+    "Farbe":"Cremiger Kaffee (Beige)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/cremiger-kaffee-beige"
+  },
+
+"RFDEPLA" : {
+    "Farbe":"Dunkeler Efeu",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/dunkler-efeu"
+  },
+
+"RFFVPLA" : {
+  "Farbe":"Flottes Veilchen (Lila)",
+  "Marke":"RecyclingFabrik",
+  "Typ":"PLA",
+  "Menge":"0",
+  "Bild":"FilamentspuleRC.png",
+  "Link":"https://www.recyclingfabrik.com/products/flottes-veilchen-lila"
+  },
+
+"RFFWPLA" : {        
+    "Farbe":"Frische Wiese (Hellgrün)",    
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/frische-wiese-hellgrun"
+  },  
+
+"RFFKPLA" : {   
+    "Farbe":"Funkelnde Kerze (Rot-Glitzer)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer-kopie"
+  },
+
+
+  "RFFNPLA" : {
+    "Farbe":"Funkelnde Nacht (Schwarz-Glitzer)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/cremiger-kaffee-beige-kopie-1"
+  },
+
+"RFFTPLA" : {  
+    "Farbe":"Funkelnde Tanne (Grün-Glitzer)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer"    
+  },
+
+"RFGLPLA" : {    
+    "Farbe":"Gepresste Limette (Hellgrün)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/gepresste-limette-hellgrun"      
+  },
+
+"RFKMPLA" : {
+    "Farbe":"Kluge Maus (Hellgrau)",       
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/kluge-maus-hellgrau"
+  },
+
+"RFKZPLA" : {
+    "Farbe":"Kühlende Zitrone (Gelb)",     
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/kuhlende-zitrone-gelb"
+  },
+
+"RFSBRPLA" : {
+    "Farbe":"Sanfte Blüte (Rosa)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/sanfte-blute-rosa"
+  },
+
+"RFSZPLA" : {
+    "Farbe":"Scharfe Zähne (Natur)",       
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/milchiges-glas-transparent-kopie"
+  },
+
+"RFSKDRPLA" : {
+    "Farbe":"Schimmernde Kerze",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-kerze"
+  },
+
+"RFSKGPLA" : {
+    "Farbe":"Schimmernde Krone",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-krone"
+  },
+
+"RFSNPLA" : {
+    "Farbe":"Schimmernde Nacht",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-nacht"
+  },
+
+"RFSPGPLA" : {
+    "Farbe":"Schimmernde Perle",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-perle"
+  },
+
+"RFSPVPLA" : {
+    "Farbe":"Schimmernde Pflaume",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-kerze-kopie"
+  },
+
+"RFSSDRPLA" : {
+    "Farbe":"Schimmernde Statue",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-statue"
+  },
+
+"RFSTPLA" : {
+    "Farbe":"Schimmernde Tanne",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmernde-tanne"
+  },
+
+"RFSSGPLA" : {
+    "Farbe":"Schimmerndes Schwert",        
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/schimmerndes-schwert"
+  },
+
+"RFSBHBPLA" : {        
+    "Farbe":"Seichte Brise (Hellblau)",    
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/seichte-brise-hellblau"
+  },
+
+"RFSRPLA" : {
+    "Farbe":"Speziale Rainbow",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/wilder-prototyp-kopie"
+  },
+
+"RFSLPLA" : {        
+    "Farbe":"Springender Lachs (Rosa)",    
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/springender-lachs-rosa"
+  },
+
+"RFWPPLA" : {
+    "Farbe":"Wilder Prototyp",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"WilderPrototyp.png",
+    "Link":"https://www.recyclingfabrik.com/products/wilder-prototyp"
+  },
+
+"RFZPPLA" : {
+    "Farbe":"Zarter Pfirsich (Orange)",
+    "Marke":"RecyclingFabrik",
+    "Typ":"PLA",
+    "Menge":"0",
+    "Bild":"FilamentspuleRC.png",
+    "Link":"https://www.recyclingfabrik.com/products/zarter-pfirsich-orange"
   }
 }
