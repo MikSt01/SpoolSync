@@ -24,7 +24,7 @@
   },
 
   "DFSchwarzMattPLA" : {
-    "Farbe":"SchwarzMatt", 
+    "Farbe":"Schwarz Matt", 
     "Marke":"DasFilament", 
     "Typ":"PLA", 
     "Menge":"0", 
@@ -42,7 +42,7 @@
   },
 
   "DFBluePearlPLA" : {
-    "Farbe":"BluePearl",
+    "Farbe":"Blue Pearl",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -51,7 +51,7 @@
   },
 
   "DFAnthrazitV2PLA" : {
-    "Farbe":"AnthrazitV2",
+    "Farbe":"Anthrazit V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -87,7 +87,7 @@
   },
 
   "DFTonweißMattPLA" : {
-    "Farbe":"TonweißMatt",
+    "Farbe":"Tonweiß Matt",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -149,8 +149,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/132/pla-filament-1-75-mm-kirschrot"
   },
 
-  "DFMetallicRotPLA" : {
-    "Farbe":"MetallicRot",
+  "DFMTRotPLA" : {
+    "Farbe":"Metallic Rot",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -158,7 +158,7 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/255/pla-filament-1-75-mm-metallic-rot"
   },
 
-  "DFKastanienbraunPLA" : {
+  "DFKastaniePLA" : {
     "Farbe":"Kastanienbraun",
     "Marke":"DasFilament",
     "Typ":"PLA",
@@ -177,7 +177,7 @@
   },
 
   "DFGoldV2PLA" : {
-    "Farbe":"GoldV2",
+    "Farbe":"Gold V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -194,8 +194,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/223/pla-filament-1-75-mm-magenta-800-g"
   },
 
-  "DFMulticolorGalaxyPLA" : {
-    "Farbe":"MulticolorGalaxy",
+  "DFMCGalaxyPLA" : {
+    "Farbe":"Multicolor Galaxy",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -212,8 +212,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/84/pla-filament-1-75-mm-koenigsblau"
   },
 
-  "DFTransluzentBlauPLA" : {
-    "Farbe":"TransluzentBlau",
+  "DFTransluBlauPLA" : {
+    "Farbe":"Transluzent Blau",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -221,8 +221,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/128/pla-filament-1-75-mm-transluzent-blau"
   },
 
-  "DFToms3dInfinityBluePLA" : {
-    "Farbe":"Toms3dInfinityBlue",
+  "DFT3dIBPLA" : {
+    "Farbe":"Toms3D Infinity Blue",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -239,8 +239,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/23/pla-filament-1-75-mm-himmelblau"
   },
 
-  "DFMulticolorPolarlichtPLA" : {
-    "Farbe":"MulticolorPolarlicht",
+  "DFMCPolarPLA" : {
+    "Farbe":"Multicolor Polarlicht",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -266,8 +266,8 @@
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/60/pla-filament-1-75-mm-grasgruen"
   },
 
-  "DFTransluzentGrünPLA" : {
-    "Farbe":"TransluzentGrün",
+  "DFTransluGrünPLA" : {
+    "Farbe":"Transluzent Grün",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",
@@ -286,7 +286,7 @@
   },
 
   "DFGlowGrünV2PLA" : {
-    "Farbe":"GlowGrünV2",
+    "Farbe":"Glow-Grün V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
     "Menge":"0",

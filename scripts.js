@@ -53,11 +53,12 @@ function writeRFID(){
   let tmpJSONtyp = ""
   tmpJSONtyp = "Wrt: "
   tmpJSONFarbe = window.prompt("Filamentfarbe eingeben", "")
+  tmpJSONMaterial = window.prompt("Filamenttyp eingeben", "")
   var FilamentID = "";
   var isInList = false;
   for (var tmp in Filamente){
     var Fil = Filamente[tmp];
-    if(Fil.Farbe == tmpJSONFarbe){
+    if(Fil.Farbe == tmpJSONFarbe && Fil.Typ == tmpJSONMaterial){
       FilamentID = tmp;
       isInList = true;
     }
@@ -66,6 +67,7 @@ function writeRFID(){
     tmpMessage = '{'+AFO+'type'+AFO+':'+AFO+'Wrt'+AFO+','+AFO+'Filament'+AFO+':'+AFO+'#'+FilamentID+'#'+AFO+'}'
     console.log(tmpMessage)
     ws.send(tmpMessage)
+    window.alert("Filament wurde gefunden")
   }
 }
 
