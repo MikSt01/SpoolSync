@@ -31,22 +31,31 @@ let ws = new WebSocket(serverLocation);                       //Verbinde den Soc
 //Ausgelagerte Funktion für Hide / Show Filament
 //ToDo: Herausfinden warum es nur 1x klappt
 function toggleVisibility(Filament){
+  var ID = Filament.Marke+Filament.Typ+Filament.Farbe;
+  ID = ID.replaceAll(" ", "");
+  ID = ID.replaceAll("(", "");
+  ID = ID.replaceAll(")", "");
+
   if(Filament.Menge < 1){
-    document.getElementById(Filament.Marke+Filament.Typ+Filament.Farbe).classList.add("hide");
+    document.getElementById(ID).classList.add("hide");
   }
   else{
-    document.getElementById(Filament.Marke+Filament.Typ+Filament.Farbe).classList.remove("hide");
+    document.getElementById(ID).classList.remove("hide");
   }
 }
 
 //Funktion zum Anzeigen von Elementen
 function addElement(Farbe, Marke, Typ, Menge, Bild, Link){
-  if(Typ == "PETG" && Farbe.length >= 12) document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
-  else if(Typ == "PETG") document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
-  else if(Typ == "PLA" && Farbe.length >= 12) document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
-  else if(Typ == "PLA") document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
-  else if (Farbe.length >= 12) document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
-  else document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+Marke+Typ+Farbe+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  var ID = Marke+Typ+Farbe;
+  ID = ID.replaceAll(" ", "");
+  ID = ID.replaceAll("(", "");
+  ID = ID.replaceAll(")", "");
+  if(Typ == "PETG" && Farbe.length >= 12) document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+ID+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if(Typ == "PETG") document.getElementById("ReihePETG").innerHTML+= '<div class="Filament" id='+ID+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if(Typ == "PLA" && Farbe.length >= 12) document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+ID+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if(Typ == "PLA") document.getElementById("ReihePLA").innerHTML+= '<div class="Filament" id='+ID+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else if (Farbe.length >= 12) document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+ID+'><h2><marquee>'+Farbe+'</marquee></h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
+  else document.getElementById("ReiheOther").innerHTML+= '<div class="Filament" id='+ID+'><h2>'+Farbe+'</h2><img src="'+Bild+'"><p>Marke: '+Marke+'<br>Typ: '+Typ+'</p><a href='+Link+' class="button">Öffnen</a>';
 }
 
 function writeRFID(){
@@ -80,7 +89,7 @@ function initFilaments(){
     addElement(Fil.Farbe, Fil.Marke, Fil.Typ, Fil.Menge, Fil.Bild, Fil.Link);
     toggleVisibility(Fil);
   }
-};
+}
 
 //Websocket Funktion, wenn eine Nachricht Emfpangen wurde
 ws.onmessage = function(messageEvent) {
