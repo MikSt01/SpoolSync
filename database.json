@@ -18,7 +18,7 @@
     "Farbe":"Schwarz", 
     "Marke":"DasFilament", 
     "Typ":"PLA", 
-    "Menge":"0", 
+    "Menge":0, 
     "Bild":"Filamentspule.png", 
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/2/pla-filament-1-75-mm-schwarz-800-g" 
   },
@@ -27,7 +27,7 @@
     "Farbe":"Schwarz Matt", 
     "Marke":"DasFilament", 
     "Typ":"PLA", 
-    "Menge":"0", 
+    "Menge":0, 
     "Bild":"Filamentspule.png", 
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/363/pla-filament-1-75-mm-schwarz-matt-800-g" 
   },
@@ -36,7 +36,7 @@
     "Farbe":"Grüngold",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/404/pla-filament-1-75-mm-gruengold-800-g"
   },
@@ -45,7 +45,7 @@
     "Farbe":"Blue Pearl",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/405/pla-filament-1-75-mm-blue-pearl-800-g"
   },
@@ -54,7 +54,7 @@
     "Farbe":"Anthrazit V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/444/pla-filament-1-75-mm-anthrazit-v2"
   },
@@ -63,7 +63,7 @@
     "Farbe":"Grau",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/8/pla-filament-1-75-mm-grau"
   },
@@ -72,7 +72,7 @@
     "Farbe":"Silber",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/104/pla-filament-1-75-mm-silber"
   },
@@ -81,7 +81,7 @@
     "Farbe":"Weiß",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/11/pla-filament-1-75-mm-weiss-800-g"
   },
@@ -90,7 +90,7 @@
     "Farbe":"Tonweiß Matt",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/349/pla-filament-1-75-mm-tonweiss-matt"
   },
@@ -99,7 +99,7 @@
     "Farbe":"Sonnengelb",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/7/pla-filament-1-75-mm-sonnengelb"
   },
@@ -108,7 +108,7 @@
     "Farbe":"Neonorange",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/96/pla-filament-1-75-mm-neonorange"
   },
@@ -117,7 +117,7 @@
     "Farbe":"Reinorange",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/10/pla-filament-1-75-mm-reinorange-800-g"
   },
@@ -126,7 +126,7 @@
     "Farbe":"ThermoRot",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/102/pla-filament-1-75-mm-thermo-rot"
   },
@@ -135,7 +135,7 @@
     "Farbe":"Feuerrot",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/95/pla-filament-1-75-mm-feuerrot"
   },
@@ -144,7 +144,7 @@
     "Farbe":"Kirschrot",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/132/pla-filament-1-75-mm-kirschrot"
   },
@@ -153,7 +153,7 @@
     "Farbe":"Metallic Rot",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/255/pla-filament-1-75-mm-metallic-rot"
   },
@@ -162,7 +162,7 @@
     "Farbe":"Kastanienbraun",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/47/pla-filament-1-75-mm-kastanienbraun"
   },
@@ -171,7 +171,7 @@
     "Farbe":"Bronze",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/106/pla-filament-1-75-mm-bronze"
   },
@@ -180,7 +180,7 @@
     "Farbe":"Gold V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/496/pla-filament-1-75-mm-gold-v2-800-g"
   },
@@ -189,7 +189,7 @@
     "Farbe":"Magenta",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/223/pla-filament-1-75-mm-magenta-800-g"
   },
@@ -198,7 +198,7 @@
     "Farbe":"Multicolor Galaxy",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/373/pla-filament-1-75-mm-multicolor-galaxy"
   },
@@ -207,7 +207,7 @@
     "Farbe":"Königsblau",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/84/pla-filament-1-75-mm-koenigsblau"
   },
@@ -216,7 +216,7 @@
     "Farbe":"Transluzent Blau",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/128/pla-filament-1-75-mm-transluzent-blau"
   },
@@ -225,7 +225,7 @@
     "Farbe":"Toms3D Infinity Blue",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/253/pla-filament-1-75-mm-toms3d-infinity-blue"
   },
@@ -234,7 +234,7 @@
     "Farbe":"Himmelblau",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/23/pla-filament-1-75-mm-himmelblau"
   },
@@ -243,7 +243,7 @@
     "Farbe":"Multicolor Polarlicht",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/367/pla-filament-1-75-mm-multicolor-polarlicht"
   },
@@ -252,7 +252,7 @@
     "Farbe":"Tannengrün",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/21/pla-filament-1-75-mm-tannengruen"
   },
@@ -261,16 +261,16 @@
     "Farbe":"Grasgrün",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/60/pla-filament-1-75-mm-grasgruen"
   },
 
-  "DFTransluGrünPLA" : {
+  "DFTransluGrünPL" : {
     "Farbe":"Transluzent Grün",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/66/pla-filament-1-75-mm-transluzent-gruen"
   },
@@ -280,7 +280,7 @@
     "Farbe":"Grün",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/119/pla-filament-1-75-mm-das-filament-gruen-800-g"
   },
@@ -289,7 +289,7 @@
     "Farbe":"Glow-Grün V2",
     "Marke":"DasFilament",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"Filamentspule.png",
     "Link":"https://www.dasfilament.de/filament-spulen/pla-1-75-mm/122/pla-filament-1-75-mm-glow-gruen-v2-800-g"
   },
@@ -298,7 +298,7 @@
     "Farbe":"Gute Nacht (Schwarz)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/gute-nacht-schwarz"
   },
@@ -307,7 +307,7 @@
     "Farbe":"Flauschiges Schaf (Weiß)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/flauschiges-schaf-weiss"
   },
@@ -316,7 +316,7 @@
     "Farbe":"Milder Sanddorn (Orange)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/milder-sanddorn-orange"
   },
@@ -325,7 +325,7 @@
     "Farbe":"Süße Kirsche (Rot)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/susse-kirsche-rot"
   },
@@ -334,7 +334,7 @@
     "Farbe":"Fallendes Laub (Braun)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/fallendes-laub-braun"
   },
@@ -343,7 +343,7 @@
     "Farbe":"Flüssiger Asphalt (Dunkelgrau)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/flussiger-asphalt-dunkelgrau"
   },
@@ -352,7 +352,7 @@
     "Farbe":"Beruhigender Lavendel (Violett)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/beruhigender-lavendel-violett"
   },
@@ -361,7 +361,7 @@
     "Farbe":"Tiefer Ozean (Dunkelblau)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/tiefer-ozean-dunkelblau"
   },
@@ -370,7 +370,7 @@
     "Farbe":"Flaches Gewässer (Blau)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/flaches-gewasser-blau"
   },
@@ -379,7 +379,7 @@
     "Farbe":"Gammelige Avocado (Grün)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/gammlige-avocado-grun"
   },
@@ -388,7 +388,7 @@
     "Farbe":"Nasser Elephant (Grau)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/nasser-elefant-grau"
   },
@@ -397,7 +397,7 @@
     "Farbe":"Cremiger Kaffee (Beige)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/cremiger-kaffee-beige"
   },
@@ -406,7 +406,7 @@
     "Farbe":"Dunkeler Efeu",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/dunkler-efeu"
   },
@@ -415,7 +415,7 @@
   "Farbe":"Flottes Veilchen (Lila)",
   "Marke":"RecyclingFabrik",
   "Typ":"PLA",
-  "Menge":"0",
+  "Menge":0,
   "Bild":"FilamentspuleRC.png",
   "Link":"https://www.recyclingfabrik.com/products/flottes-veilchen-lila"
   },
@@ -424,7 +424,7 @@
     "Farbe":"Frische Wiese (Hellgrün)",    
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/frische-wiese-hellgrun"
   },  
@@ -433,7 +433,7 @@
     "Farbe":"Funkelnde Kerze (Rot-Glitzer)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer-kopie"
   },
@@ -443,7 +443,7 @@
     "Farbe":"Funkelnde Nacht (Schwarz-Glitzer)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/cremiger-kaffee-beige-kopie-1"
   },
@@ -452,7 +452,7 @@
     "Farbe":"Funkelnde Tanne (Grün-Glitzer)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/funkelnde-tanne-grun-glitzer"    
   },
@@ -461,7 +461,7 @@
     "Farbe":"Gepresste Limette (Hellgrün)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/gepresste-limette-hellgrun"      
   },
@@ -470,7 +470,7 @@
     "Farbe":"Kluge Maus (Hellgrau)",       
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/kluge-maus-hellgrau"
   },
@@ -479,7 +479,7 @@
     "Farbe":"Kühlende Zitrone (Gelb)",     
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/kuhlende-zitrone-gelb"
   },
@@ -488,7 +488,7 @@
     "Farbe":"Sanfte Blüte (Rosa)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/sanfte-blute-rosa"
   },
@@ -497,7 +497,7 @@
     "Farbe":"Scharfe Zähne (Natur)",       
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/milchiges-glas-transparent-kopie"
   },
@@ -506,7 +506,7 @@
     "Farbe":"Schimmernde Kerze",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-kerze"
   },
@@ -515,7 +515,7 @@
     "Farbe":"Schimmernde Krone",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-krone"
   },
@@ -524,7 +524,7 @@
     "Farbe":"Schimmernde Nacht",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-nacht"
   },
@@ -533,7 +533,7 @@
     "Farbe":"Schimmernde Perle",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-perle"
   },
@@ -542,7 +542,7 @@
     "Farbe":"Schimmernde Pflaume",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-kerze-kopie"
   },
@@ -551,7 +551,7 @@
     "Farbe":"Schimmernde Statue",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-statue"
   },
@@ -560,7 +560,7 @@
     "Farbe":"Schimmernde Tanne",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmernde-tanne"
   },
@@ -569,7 +569,7 @@
     "Farbe":"Schimmerndes Schwert",        
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/schimmerndes-schwert"
   },
@@ -578,7 +578,7 @@
     "Farbe":"Seichte Brise (Hellblau)",    
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/seichte-brise-hellblau"
   },
@@ -587,7 +587,7 @@
     "Farbe":"Speziale Rainbow",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/wilder-prototyp-kopie"
   },
@@ -596,7 +596,7 @@
     "Farbe":"Springender Lachs (Rosa)",    
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/springender-lachs-rosa"
   },
@@ -605,7 +605,7 @@
     "Farbe":"Wilder Prototyp",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"WilderPrototyp.png",
     "Link":"https://www.recyclingfabrik.com/products/wilder-prototyp"
   },
@@ -614,7 +614,7 @@
     "Farbe":"Zarter Pfirsich (Orange)",
     "Marke":"RecyclingFabrik",
     "Typ":"PLA",
-    "Menge":"0",
+    "Menge":0,
     "Bild":"FilamentspuleRC.png",
     "Link":"https://www.recyclingfabrik.com/products/zarter-pfirsich-orange"
   }
