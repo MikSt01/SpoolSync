@@ -37,7 +37,7 @@ Warten, bis der Pi gebootet hat, und ein Terminal Fenster öffnen, ,,sudo apt-ge
 Dann ,,curl -sL https://deb.nodesource.com/setup_22.x | sudo -E bash -" eingeben, warten und anschließend ,,sudo apt-get install -y nodejs" ausführen und warten, bis die Installation abgeschlossen ist. ,,node -v" eingeben, kommt keine Fehlermeldung war die Installation erfolgreich. 
 Mit ,,npm -v" prüfen, ob der Package Manager korrekt installiert wurde. configcreator.py auf einem anderen PC mit VS Code (und Python) ausführen, um eine zu dem Server passende config.json im Verzeichnis C:\Users\ [benutzername] zu erhalten. 
 Diese Datei auf einen USB Stick ziehen und den Stick in den rPi stecken. Im Terminal des Pi ,,sudo pcmanfm" eingeben. In dem nun geöffnetem File-Manager im Ordner etc einen Unterordner namens ,,SpoolSync" erstellen und die config.json vom USB Stick in diesen Ordner kopieren.
-Im Webbrowser von Raspbian ,,https://github.com/MikSt01/SpoolSync.git" öffnen, alle Dateien herunterladen und in den Ordner ,,SpoolSync", der eben erstellt wurde verschieben. Im Terminal ,,node etc/SpoolSync/index.js" eingeben. Nun sollte ,,listening on (ipAdresse:7777)" im Terminal stehen.
+Im Webbrowser von Raspbian ,,https://github.com/MikSt01/SpoolSync.git" öffnen, alle Dateien herunterladen und in den Ordner ,,SpoolSync", der eben erstellt wurde verschieben. In einem neuen Terminal ,,crontab -e" eingeben, dann 1 antworten. An das untere Ende der Datei navigieren und dann ,,@reboot node /etc/SpoolSync/index.js &" hineinschreiben. Mit Strg+S speichern und nano mit Strg+X verlassen.
 
 
 
