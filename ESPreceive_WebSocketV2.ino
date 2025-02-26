@@ -86,7 +86,7 @@ void setup() {
     }
     Serial.print("Local IP: "); Serial.println(WiFi.localIP());
     // server address, port and URL
-    webSocket.begin("ws://amp.kongcrew.de", 7778, "/", "ws");
+    webSocket.begin("ipadress", 7778, "/", "ws");
  
     // event handler
     webSocket.onEvent(webSocketEvent);
