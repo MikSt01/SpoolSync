@@ -7,7 +7,7 @@
         "name": "Mika"
     },
     "dependencies": {
-        "express": "^4.21.1",
+        "express": "^4.21.2",
         "path": "^0.12.7",
         "ws": "^8.18.0"
     }
